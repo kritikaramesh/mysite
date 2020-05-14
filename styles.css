@@ -45,8 +45,7 @@ hr{
 }
 
 .middle-container {
-  text-align: center;
-  width: 25%;
+  width: 50%;
   margin: 50px auto 100px auto;
   line-height: 2;
 }
