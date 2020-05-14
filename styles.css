@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #88304e;
+  line-height: 2;
+}
+h2{
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 2.5rem;
+  color: #88304e;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Averia Serif Libre', cursive;
+  color: #9e579d;
+}
+
+a{
+  color: #9e579d;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-width: 8px;
+}
+
+.top-container {
+  background-color: #ffe8df;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  text-align: center;
+  width: 25%;
+  margin: 50px auto 100px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #88304e;
+  color: #9e579d;
+  padding: 20px;
+  line-height: 4;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  margin-top: 50px;
+	box-shadow: 0 1px 0 0 #ffe8df;
+	background:linear-gradient(to bottom, #eaac9d 5%, #fab7b7 100%);
+	background-color:#eaac9d;
+	border-radius:6px;
+	border:1px solid #ffe8df;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #ffe8df;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #fab7b7 5%, #eaac9d 100%);
+	background-color:#fab7b7;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.pro{
+  width: 50%;
+}
+
+.para{
+  margin: 10px auto;
+}
+
+.skills{
+  margin: 100px auto 100px auto;
+}
+
+.contact-me{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.paralast{
+  color: white;
+  font-size: 15px;
+  margin: 10px;
+}
