@@ -144,8 +144,9 @@ hr{
   margin: 10px;
 }
 
-@media (max-width: 480px){
-	.bottom-cloud{
+@media (max-width: 501px){
+	
+.bottom-cloud{
   position: absolute;
   left: 10px;
   bottom: 100px;
